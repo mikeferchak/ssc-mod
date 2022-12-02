@@ -1,0 +1,1 @@
+xcopy /i /e /y "C:\ssc-mod\ks_toyota_gt86_SSC" "C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars\ks_toyota_gt86_SSC"
